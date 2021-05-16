@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "secret_key":"shitab",
+        "local_uri": "mysql://root:shitz18ms@localhost/techblogflask",
+        "prod_uri": "mysql://root:shitz18ms@localhost/techblogflask",
+        "facebook_url": "https://facebook.com",
+        "twitter_url": "https://twitter.com/home",
+        "github_url": "https://github.com",
+        "gmail_user": "pinhole.shitab@gmail.com",
+        "gmail_password":"wixiepixieshitab16",
+        "number_of_post": 3,
+        "admin_user":"shitab",
+        "admin_password":"shitab",
+        "upload_location":"/Users/shitabtanzim/Desktop/projects/TechBlogFlask/static/assets/img"
+    }
+}
